@@ -1,0 +1,7 @@
+C:\Users\st310-05\Desktop\prakt5_Leshukov\bin\Debug\prakt5_Leshukov.exe.config
+C:\Users\st310-05\Desktop\prakt5_Leshukov\bin\Debug\prakt5_Leshukov.exe
+C:\Users\st310-05\Desktop\prakt5_Leshukov\bin\Debug\prakt5_Leshukov.pdb
+C:\Users\st310-05\Desktop\prakt5_Leshukov\obj\Debug\prakt5_Leshukov.csproj.AssemblyReference.cache
+C:\Users\st310-05\Desktop\prakt5_Leshukov\obj\Debug\prakt5_Leshukov.csproj.CoreCompileInputs.cache
+C:\Users\st310-05\Desktop\prakt5_Leshukov\obj\Debug\prakt5_Leshukov.exe
+C:\Users\st310-05\Desktop\prakt5_Leshukov\obj\Debug\prakt5_Leshukov.pdb
